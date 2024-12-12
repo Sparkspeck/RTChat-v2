@@ -1,5 +1,5 @@
 # RTChat-v2
-A real time messaging video conferencint WebApp
+A real time messaging video conferencing WebApp
 
 # Installation
 * 1 - clone repo https://github.com/Sparkspeck/RTChat-v2
